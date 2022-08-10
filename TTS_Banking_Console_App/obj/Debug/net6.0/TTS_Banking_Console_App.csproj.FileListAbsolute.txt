@@ -1,0 +1,15 @@
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\TTS_Banking_Console_App\bin\Debug\net6.0\TTS_Banking_Console_App.exe
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\TTS_Banking_Console_App\bin\Debug\net6.0\TTS_Banking_Console_App.deps.json
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\TTS_Banking_Console_App\bin\Debug\net6.0\TTS_Banking_Console_App.runtimeconfig.json
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\TTS_Banking_Console_App\bin\Debug\net6.0\TTS_Banking_Console_App.dll
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\TTS_Banking_Console_App\bin\Debug\net6.0\TTS_Banking_Console_App.pdb
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\TTS_Banking_Console_App\obj\Debug\net6.0\TTS_Banking_Console_App.csproj.AssemblyReference.cache
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\TTS_Banking_Console_App\obj\Debug\net6.0\TTS_Banking_Console_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\TTS_Banking_Console_App\obj\Debug\net6.0\TTS_Banking_Console_App.AssemblyInfoInputs.cache
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\TTS_Banking_Console_App\obj\Debug\net6.0\TTS_Banking_Console_App.AssemblyInfo.cs
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\TTS_Banking_Console_App\obj\Debug\net6.0\TTS_Banking_Console_App.csproj.CoreCompileInputs.cache
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\TTS_Banking_Console_App\obj\Debug\net6.0\TTS_Banking_Console_App.dll
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\TTS_Banking_Console_App\obj\Debug\net6.0\refint\TTS_Banking_Console_App.dll
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\TTS_Banking_Console_App\obj\Debug\net6.0\TTS_Banking_Console_App.pdb
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\TTS_Banking_Console_App\obj\Debug\net6.0\TTS_Banking_Console_App.genruntimeconfig.cache
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\TTS_Banking_Console_App\obj\Debug\net6.0\ref\TTS_Banking_Console_App.dll
