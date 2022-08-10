@@ -19,6 +19,6 @@ namespace TTS_Banking_Console_App
             Notes = note;
         }
 
-        private List<Transaction> allTransactions = new List<Transaction>();
+        
     }
 }
