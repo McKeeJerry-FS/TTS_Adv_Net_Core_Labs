@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "AppWithPlugin/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/AppWithPlugin.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/AppWithPlugin.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "AppWithPlugin/1.0.0": {
-      "type": "project",
-      "path": "../AppWithPlugin.csproj",
-      "msbuildProject": "../AppWithPlugin.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "AppWithPlugin >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\Jerry McKee Jr\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code Projects\\.NET Core\\TTS_Adv_Net_Core_Labs\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
-      "projectName": "PluginBase",
-      "projectPath": "D:\\Code Projects\\.NET Core\\TTS_Adv_Net_Core_Labs\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
+      "projectUniqueName": "D:\\Code Projects\\.NET Core\\TTS_Adv_Net_Core_Labs\\HelloWorld\\HelloWorld.csproj",
+      "projectName": "HelloWorld",
+      "projectPath": "D:\\Code Projects\\.NET Core\\TTS_Adv_Net_Core_Labs\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Jerry McKee Jr\\.nuget\\packages\\",
-      "outputPath": "D:\\Code Projects\\.NET Core\\TTS_Adv_Net_Core_Labs\\AppWithPlugin\\PluginBase\\obj\\",
+      "outputPath": "D:\\Code Projects\\.NET Core\\TTS_Adv_Net_Core_Labs\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jerry McKee Jr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "D:\\Code Projects\\.NET Core\\TTS_Adv_Net_Core_Labs\\AppWithPlugin\\AppWithPlugin.csproj": {
-              "projectPath": "D:\\Code Projects\\.NET Core\\TTS_Adv_Net_Core_Labs\\AppWithPlugin\\AppWithPlugin.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

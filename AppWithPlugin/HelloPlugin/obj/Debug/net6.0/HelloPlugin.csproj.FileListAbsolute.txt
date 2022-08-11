@@ -1,0 +1,5 @@
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\AppWithPlugin\HelloPlugin\obj\Debug\net6.0\HelloPlugin.csproj.AssemblyReference.cache
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\AppWithPlugin\HelloPlugin\obj\Debug\net6.0\HelloPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\AppWithPlugin\HelloPlugin\obj\Debug\net6.0\HelloPlugin.AssemblyInfoInputs.cache
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\AppWithPlugin\HelloPlugin\obj\Debug\net6.0\HelloPlugin.AssemblyInfo.cs
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\AppWithPlugin\HelloPlugin\obj\Debug\net6.0\HelloPlugin.csproj.CoreCompileInputs.cache

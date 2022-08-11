@@ -1,0 +1,5 @@
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\AppWithPlugin\obj\Debug\net6.0\AppWithPlugin.csproj.AssemblyReference.cache
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\AppWithPlugin\obj\Debug\net6.0\AppWithPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\AppWithPlugin\obj\Debug\net6.0\AppWithPlugin.AssemblyInfoInputs.cache
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\AppWithPlugin\obj\Debug\net6.0\AppWithPlugin.AssemblyInfo.cs
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\AppWithPlugin\obj\Debug\net6.0\AppWithPlugin.csproj.CoreCompileInputs.cache
