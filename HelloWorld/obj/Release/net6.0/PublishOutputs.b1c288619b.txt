@@ -1,0 +1,5 @@
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\HelloWorld\bin\Release\net6.0\publish\HelloWorld.exe
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\HelloWorld\bin\Release\net6.0\publish\HelloWorld.dll
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\HelloWorld\bin\Release\net6.0\publish\HelloWorld.deps.json
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\HelloWorld\bin\Release\net6.0\publish\HelloWorld.runtimeconfig.json
+D:\Code Projects\.NET Core\TTS_Adv_Net_Core_Labs\HelloWorld\bin\Release\net6.0\publish\HelloWorld.pdb
